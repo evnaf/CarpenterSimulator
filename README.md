@@ -5,6 +5,9 @@
 </div>
 
 ---
+![picture](https://github.com/user-attachments/assets/d81e4828-444d-486c-af09-211a136c6ec7)
+
+---
 
 <!-- Development Roadmap Section -->
 ## 🚧 Development Roadmap (2025)
