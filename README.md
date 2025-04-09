@@ -1,9 +1,14 @@
 # Carpenter Simulator
 
-**A fun, immersive woodcraft and furniture-building simulation game**
+<!-- Header with background, gradient, and rounded corners -->
+<div style="background: linear-gradient(135deg, #A5D6A7, #81C784); padding: 50px 20px; border: 5px solid #6d4c41; border-radius: 20px; text-align: center; color: white; font-family: 'Poppins', sans-serif;">
+  <h1 style="font-size: 3rem; margin: 0; color: #6d4c41;">Carpenter Simulator</h1>
+  <p style="font-size: 1.2rem; margin-top: 10px;">A fun, immersive woodcraft and furniture-building simulation game</p>
+</div>
 
 ---
 
+<!-- Development Roadmap Section -->
 ## 🚧 Development Roadmap (2025)
 
 ### **Q2 2025: Initial Launch and Early Features**
@@ -30,6 +35,7 @@
 
 ---
 
+<!-- Core Mechanics Section with Clean Layout -->
 ## ⚙️ Core Mechanics
 
 ### 1. **Sourcing and Preparing Wood**
@@ -50,30 +56,15 @@
 
 ---
 
+<!-- Game Showcase -->
 ## 🎮 Game Showcase
 
-![Screenshot 1](https://via.placeholder.com/500x300?text=Screenshot+1)  
-![Screenshot 2](https://via.placeholder.com/500x300?text=Screenshot+2)  
-![Screenshot 3](https://via.placeholder.com/500x300?text=Screenshot+3)  
-![Screenshot 4](https://via.placeholder.com/500x300?text=Screenshot+4)
-
----
-
-## 🛠️ Coming Soon to Steam!
-
-**Carpenter Simulator** is coming soon to Steam! Add it to your wishlist now!
-
-[Wishlist on Steam](https://store.steampowered.com/)
-
----
-
-## 📅 Stay Connected
-
-Follow us on social media for updates and news about Carpenter Simulator!
-
-- [Twitter](https://twitter.com/)
-- [Facebook](https://facebook.com/)
-- [Discord](https://discord.com/)
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  <img src="https://via.placeholder.com/500x300?text=Screenshot+1" style="margin: 10px; border-radius: 10px; border: 3px solid #6d4c41;" alt="Screenshot 1">
+  <img src="https://via.placeholder.com/500x300?text=Screenshot+2" style="margin: 10px; border-radius: 10px; border: 3px solid #6d4c41;" alt="Screenshot 2">
+  <img src="https://via.placeholder.com/500x300?text=Screenshot+3" style="margin: 10px; border-radius: 10px; border: 3px solid #6d4c41;" alt="Screenshot 3">
+  <img src="https://via.placeholder.com/500x300?text=Screenshot+4" style="margin: 10px; border-radius: 10px; border: 3px solid #6d4c41;" alt="Screenshot 4">
+</div>
 
 ---
 
@@ -83,4 +74,7 @@ Follow us on social media for updates and news about Carpenter Simulator!
 
 ---
 
-© 2025 Carpenter Simulator | All rights reserved.
+<!-- Footer -->
+<div style="background-color: #81C784; padding: 20px; text-align: center; color: white; font-family: 'Poppins', sans-serif;">
+  <p style="margin: 0;">© 2025 Carpenter Simulator | All rights reserved.</p>
+</div>
