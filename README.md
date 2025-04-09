@@ -1,10 +1,56 @@
-# Cave Engine: Demo Project
- Welcome to the official repository of the Demo Project for **Cave Engine**. Please go to the **Releases tab** to find the specific version that works with your current engine installation.
+# Carpenter Simulator
 
-![alt text](Cover.png)
+**A fun, immersive woodcraft and furniture-building simulation game**
 
+---
 
-## Get Cave Engine:
-To open and explore the Demo Project, you must own a copy of Cave Engine. If you don't own it yet, click the link below to visit its official Itch.io page:
-- [Get Cave Here (itch io)](https://unidaystudio.itch.io/cave-engine)
+## 🚀 Recent Releases
 
+### Alpha Version 1.0
+**Released:** March 2025  
+[Download](#)  
+
+### Beta Version 1.5
+**Released:** April 2025  
+[Download](#)
+
+### Upcoming Version 2.0
+**Release Date:** Summer 2025  
+[Learn More](#)
+
+---
+
+## 🎮 Game Showcase
+
+![Screenshot 1](https://via.placeholder.com/500x300?text=Screenshot+1)  
+![Screenshot 2](https://via.placeholder.com/500x300?text=Screenshot+2)  
+![Screenshot 3](https://via.placeholder.com/500x300?text=Screenshot+3)  
+![Screenshot 4](https://via.placeholder.com/500x300?text=Screenshot+4)
+
+---
+
+## 🛠️ Coming Soon to Steam!
+
+**Carpenter Simulator** is coming soon to Steam! Add it to your wishlist now!
+
+[Wishlist on Steam](https://store.steampowered.com/)
+
+---
+
+## 📅 Stay Connected
+
+Follow us on social media for updates and news about Carpenter Simulator!
+
+- [Twitter](https://twitter.com/)
+- [Facebook](https://facebook.com/)
+- [Discord](https://discord.com/)
+
+---
+
+### 📝 About
+
+**Carpenter Simulator** is a woodworking and furniture-building simulation game where you can chop trees, craft furniture, and take on orders from customers. Explore, create, and build your own woodworking empire!
+
+---
+
+© 2025 Carpenter Simulator | All rights reserved.
