@@ -30,7 +30,6 @@
 
 ### **Q1 2026: Post-Launch Support and Expansion**
 - **Version 2.5**: Focus on bug fixes, quality of life improvements, and performance optimizations.
-- **Modding Support**: Begin adding modding tools for the community to create custom furniture, tools, and orders.
 - **Community Engagement**: Host events, challenges, and feature community-created content.
 
 ---
