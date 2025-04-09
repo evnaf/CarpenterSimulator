@@ -1,5 +1,3 @@
-# Carpenter Simulator
-
 <!-- Header with background, gradient, and rounded corners -->
 <div style="background: linear-gradient(135deg, #A5D6A7, #81C784); padding: 50px 20px; border: 5px solid #6d4c41; border-radius: 20px; text-align: center; color: white; font-family: 'Poppins', sans-serif;">
   <h1 style="font-size: 3rem; margin: 0; color: #6d4c41;">Carpenter Simulator</h1>
